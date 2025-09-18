@@ -1,0 +1,5 @@
+{
+  "threads": 10,
+  "timeout": 8,
+  "ui": {"color": true}
+}
