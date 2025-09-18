@@ -1,0 +1,2 @@
+add_executable(test_scraper test_scraper.cpp)
+target_link_libraries(test_scraper PRIVATE yetanotherproxy)
